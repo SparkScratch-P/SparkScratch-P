@@ -1,8 +1,4 @@
-
- 
-
-![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
-
+![image](https://user-images.githubusercontent.com/73777108/140055767-e8d85f38-3728-4988-a485-9cf28c19971e.png)
 
 
 ### Check me out here:
