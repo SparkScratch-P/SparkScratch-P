@@ -1,3 +1,6 @@
+[![website status](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fsparkscratch-p.github.io)](https://sparkscratch-p.github.io/)
+
+
 ![image](https://user-images.githubusercontent.com/73777108/140055767-e8d85f38-3728-4988-a485-9cf28c19971e.png)
 
       
