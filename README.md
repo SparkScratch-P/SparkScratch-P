@@ -1,5 +1,6 @@
 [![website status](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fsparkscratch-p.github.io)](https://sparkscratch-p.github.io/)
 
+![visitor](https://visitor-badge.glitch.me/badge?page_id=Sparkscratch-P.visitor-badge&left_text=Visitors%20Since%206%20December%202021)
 
 <h1 align="center">
     <em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome!</em>
