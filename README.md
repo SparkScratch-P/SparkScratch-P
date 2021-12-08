@@ -50,8 +50,8 @@ Leave a message here, in web-page chat button, or
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=compact&theme=highcontrast&hide_border=true)
   
   
- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SparkScratch-P&theme=highcontrast&hide_border=true)
- ![trophies](https://github-profile-trophy.vercel.app/?username=SparkScratch-P&theme=discord)
+ ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SparkScratch-P&theme=highcontrast&hide_border=true)&nbsp; &nbsp;
+ ![trophies](https://github-profile-trophy.vercel.app/?username=SparkScratch-P&theme=discord)&nbsp; &nbsp;
  ![act](https://activity-graph.herokuapp.com/graph?username=SparkScratch-P&theme=react-dark)
 
 
@@ -122,8 +122,10 @@ Leave a message here, in web-page chat button, or
 </details>
 
 ---
-
+<h2 align="center">
 ### Show some ❤️ by starring some of the repositories!
-
+</h2>
+    
+<h2 align="center">    
 ### Contributions and PRs are Welcome!
-
+</h2>
