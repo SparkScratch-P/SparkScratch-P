@@ -11,7 +11,7 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
+ <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true"  width="200px"/>
 
 
 ### Check me out here:
