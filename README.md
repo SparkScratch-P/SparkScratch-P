@@ -2,17 +2,11 @@
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=Sparkscratch-P.visitor-badge&left_text=Visitors%20Since%206%20December%202021)
 
-<h1 align="center">
-    <em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome! 👨‍💻</em>
+<h1 align="center"> 
+<img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true"  width="200px"/>
+    
+<em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome! 👨‍💻</em>
 </h1>
-
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main)    ![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
-
-
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
- <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true"  width="200px"/>
-
 
 ### Check me out here:
 
