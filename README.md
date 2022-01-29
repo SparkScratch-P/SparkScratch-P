@@ -117,9 +117,6 @@ Leave a message here, in web-page chat button, or
 
 ---
 <h2 align="center">
-### Show some ❤️ by starring some of the repositories!
+Show some ❤️ by starring some of the repositories!
 </h2>
-    
-<h2 align="center">    
-### Contributions and PRs are Welcome!
-</h2>
+
