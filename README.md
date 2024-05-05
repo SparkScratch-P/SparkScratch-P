@@ -55,25 +55,16 @@ Leave a message here, in web-page chat button, or
 <details><summary><b>Click to EXPAND</b></summary>
          
 <p>  Hi Guys !!! I am <strong>SparkScratch_P (Prodyumna Pal).</strong></p>
-<p>  I am an Indian Bengali High School student, who passionately got hooked on coding from the Ninth standard when the Covid lockdown fixed student to the computer screen! I am a self-taught coder, whose foundation is based on <strong>Scratch</strong> programming language. I had been trained with technology from the  <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" /> era, and still on <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />. I love working online for cross platform projects, and I use <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> , and sometimes <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" /> for surfing.  Here are some of my best achievements with coding these days...</p>
+<p> I am a software (FOSS) developer and electronic systems enthusiast, who patronizes modern and futuristic technologies and aims to increase the interaction between Computers and the real world. I got hooked up in the world of Programming and Development, since my ninth standard, when the lockdown stuck school-going students to computer screens. In 2024, I passed my class 12th under AISSCE (CBSE) from Delhi Public School,(Joka) South Kolkata as the Head Boy of the institution. I have been building software under my own brand stamp, SPARK Technosapiens for 3 years now. I am a Scratch Wiki Editor, and I have also served as the in-charge of Team Graphics and handled various other positions of responsibilities in my school days.
+
+ I began with Scratch, a beginner-level block-based language, but, over time, my algorithm skills evolved, and so did Scratch, with its more modifications and extensions. I had done extensive research on how to use it as a professional language and achieve complex processes of high accuracy and quality using this language, and finally, I made Windows Applications, Websites, web applications, and even higher-level projects including IoT Controls and Augmented Virtual Reality software. I also had a similar journey in discovering the potential of Motion Detection algorithms with Scratch and IoT Sensors. I am skilled in Web-Application Development using Extensive Scratch JS, and IoT (Arduino, ESP) Development using Embedded C language and further trying to integrate the two.
+
+ I have a research paper, titled "Prolonged Suspicious Inactivity Monitoring of Old Aged People", published from a high-impact journal, the International Journal of Scientific Research in Engineering and Management (IJSREM). I have been awarded the Certificate of Merit from the Birla Industrial and Technological Museum, Govt of India during my participation in the Annual Science Fair on Sustainable Development. I have remained an A+ Lvl developer in GitHub during 2020-23. My ongoing research works include Event-Identification: Potentials of Applied Motion Detection Technology with corresponding Augmented Virtual Reality and Telemetry: Connecting UEV (Electronic UAV & UGV) beyond the radio-transmission range.</p>
          
 <!--### Pass
 -->
 
 <img align="right" src="https://user-images.githubusercontent.com/73777108/144744131-d2867336-140c-4067-9bd6-8914541847b2.png" style="width:200px" >
-   
-
-         
-<ul>
-<li>Scratcher</li>
-<li>Programming for 6 yrs</li>
-<li>Learning IT for 11 yrs</li>
-<li>Coded in: 15+ languages,20+ IDEs</li>
-<li><a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P">Scratch Wiki Editor</a></li>
-<li>Github Developer Program Member</li>
-<li>32nd <a href="https://scratchaddons.com/">Scratch-Addons</a> <a href="https://scratchaddons.com/contributors">Contributor</a> </li>
-</ul>
-
          
       
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src= "https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
