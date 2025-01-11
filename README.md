@@ -5,7 +5,7 @@
 <h1 align="center"> 
 <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true"  width="200px"/>
     
-<em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome! 👨‍💻</em>
+<em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm Prodyumna Pal... Welcome! 👨‍💻</em>
 </h1>
 
 ### Check me out here:
