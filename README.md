@@ -1,7 +1,9 @@
 [![website status](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fsparkscratch-p.github.io)](https://sparkscratch-p.github.io/)
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=Sparkscratch-P.visitor-badge&left_text=Visitors%20Since%206%20December%202021)
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/SparkScratch-P/count.svg" alt="Visitor's Count" />
+</div>
 <h1 align="center"> 
 <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true"  width="200px"/>
     
@@ -38,11 +40,9 @@ Leave a message here, in web-page chat button, or
 ---
 
 
- ![git stats](https://github-readme-stats.vercel.app/api?username=SparkScratch-P&count_private=true&show_icons=true&theme=blue-green&border_radius=25)
- 
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=compact&theme=highcontrast&hide_border=true)
-  
+ ![git stats](https://github-readme-stats.vercel.app/api?username=SparkScratch-P&count_private=true&show_icons=true&theme=blue-green&border_radius=25) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=donut&theme=highcontrast&hide_border=true)
+
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SparkScratch-P&theme=xcode&hide_border=true" alt="Activity graph">
   
  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SparkScratch-P&theme=highcontrast&hide_border=true)&nbsp; &nbsp;
  ![trophies](https://github-profile-trophy.vercel.app/?username=SparkScratch-P&theme=discord)&nbsp; &nbsp;
